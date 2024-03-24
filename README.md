@@ -7,7 +7,7 @@
 #### By *Philip Otieno*
 
 ## Description
-It contains three code challenges and there solutions, which are located in the code-challenge folder.
+It contains three code challenges and there solutions.
 The grade-generator.js file contains code that is meant to output the correct grade of a student based on marks, inputted.
 
 The net-salary.js file contains code that is meant to calculate an individual’s Net Salary.
@@ -23,18 +23,17 @@ Git
 
 ### Installation instruction
 ```
-Git clone 
+Git clone git@github.com:reez-code/week-1-code-challenge.git
 
 ```
 
-# Live Link
-[Git](gh-pages link)
+
 
 ## Technologies used
 Javascript
 
 ## Support and contact details
-github.com/
+github.com/reez-code
 
 ### License
 The content of this site is licensed under the MIT license
